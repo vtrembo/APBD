@@ -1,0 +1,6 @@
+Zbigniew,Kowalski,s4450,2000-02-12,s4450@pjwstk.edu.pl,Alina,Adam,Sztuka Nowych Mediów,
+Karolina,Nowak,s4455,2000-02-12,s4455@pjwstk.edu.pl,Alina,Adam,Sztuka Nowych Mediów,
+Aleksandra,,s4434,2000-02-12,s4434@pjwstk.edu.pl,Alina,Adam,Sztuka Nowych Mediów,Dzienne
+Jolanta,Nowak,s4756,2000-02-12,s4756@pjwstk.edu.pl,,,Sztuka Nowych Mediów,Dzienne
+Zuzanna,Jankowski,s4413,2000-02-12,s4413@pjwstk.edu.pl,Alina,Adam,Zarządzanie informacją dzienne (kierunek Zarządzanie),Dzienne
+Adrian,Nowak,s4058,2000-02-12,s4058@pjwstk.edu.pl,Alina,Adam,Informatyka,Wieczorowe
