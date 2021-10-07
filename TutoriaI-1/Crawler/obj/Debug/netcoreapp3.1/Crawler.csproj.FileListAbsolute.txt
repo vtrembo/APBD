@@ -1,0 +1,13 @@
+C:\Sweazy\STUDY\APBD\Tutorial-1\tutorial-1-s20970\Crawler\Crawler\bin\Debug\netcoreapp3.1\Crawler.exe
+C:\Sweazy\STUDY\APBD\Tutorial-1\tutorial-1-s20970\Crawler\Crawler\bin\Debug\netcoreapp3.1\Crawler.deps.json
+C:\Sweazy\STUDY\APBD\Tutorial-1\tutorial-1-s20970\Crawler\Crawler\bin\Debug\netcoreapp3.1\Crawler.runtimeconfig.json
+C:\Sweazy\STUDY\APBD\Tutorial-1\tutorial-1-s20970\Crawler\Crawler\bin\Debug\netcoreapp3.1\Crawler.runtimeconfig.dev.json
+C:\Sweazy\STUDY\APBD\Tutorial-1\tutorial-1-s20970\Crawler\Crawler\bin\Debug\netcoreapp3.1\Crawler.dll
+C:\Sweazy\STUDY\APBD\Tutorial-1\tutorial-1-s20970\Crawler\Crawler\bin\Debug\netcoreapp3.1\Crawler.pdb
+C:\Sweazy\STUDY\APBD\Tutorial-1\tutorial-1-s20970\Crawler\Crawler\obj\Debug\netcoreapp3.1\Crawler.csproj.CoreCompileInputs.cache
+C:\Sweazy\STUDY\APBD\Tutorial-1\tutorial-1-s20970\Crawler\Crawler\obj\Debug\netcoreapp3.1\Crawler.AssemblyInfoInputs.cache
+C:\Sweazy\STUDY\APBD\Tutorial-1\tutorial-1-s20970\Crawler\Crawler\obj\Debug\netcoreapp3.1\Crawler.AssemblyInfo.cs
+C:\Sweazy\STUDY\APBD\Tutorial-1\tutorial-1-s20970\Crawler\Crawler\obj\Debug\netcoreapp3.1\Crawler.dll
+C:\Sweazy\STUDY\APBD\Tutorial-1\tutorial-1-s20970\Crawler\Crawler\obj\Debug\netcoreapp3.1\Crawler.pdb
+C:\Sweazy\STUDY\APBD\Tutorial-1\tutorial-1-s20970\Crawler\Crawler\obj\Debug\netcoreapp3.1\Crawler.genruntimeconfig.cache
+C:\Sweazy\STUDY\APBD\Tutorial-1\tutorial-1-s20970\Crawler\Crawler\obj\Debug\netcoreapp3.1\Crawler.csprojAssemblyReference.cache
